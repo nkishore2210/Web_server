@@ -58,7 +58,7 @@ httpd.serve_forever()
 # OUTPUT:
 # server side view:
 ![Screenshot_20221227_093810](https://user-images.githubusercontent.com/118707090/211476931-75dce359-dd47-44a1-84dc-995188c5ace0.png)
-#client side view:
+# client side view:
 ![WhatsApp Image 2023-01-10 at 11 35 22](https://user-images.githubusercontent.com/118707090/211477133-db0fb6ca-6f1b-4a57-bd04-d57918fb5450.jpg)
 
 
